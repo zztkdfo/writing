@@ -7,7 +7,7 @@
 
 ### 첫 글쓰기에 대한 설레임: 작게 시작하는 용기와 꾸준함의 철학
 - 첫 글을 올릴 때 설레임과 작게 시작하기, 꾸준함의 철학에 대한 본인의 생각 정
-- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%99%9C-%EC%8B%A4%EC%B2%9C%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8%EA%B9%8C-%EC%9E%91%EA%B2%8C-%EC%9E%91%EA%B2%8C)
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%B2%AB-%EA%B8%80%EC%93%B0%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%A0%88%EC%9E%84-%EC%9E%91%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9A%A9%EA%B8%B0%EC%99%80-%EA%BE%B8%EC%A4%80%ED%95%A8%EC%9D%98-%EC%B2%A0%ED%95%99)
 
 ### 무신사의 웹사이트 개편: 모바일 중심으로의 전환
 - 무신사, 지그재그, 에이블리, 등등 이커머스의 web ui 변환, 모바일 중심으로의 전환에 대한 본인 생각 정리
