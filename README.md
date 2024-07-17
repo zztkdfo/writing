@@ -12,3 +12,7 @@
 ### 무신사의 웹사이트 개편: 모바일 중심으로의 전환
 - 무신사, 지그재그, 에이블리, 등등 이커머스의 web ui 변환, 모바일 중심으로의 전환에 대한 본인 생각 정리
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%9D%98-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%ED%8E%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98)
+
+### 내가 러닝을 하는 이유.. 내 일을 더 잘하기 위해서!
+- 러닝과 작은 성공에 대한 본인 생각 정리
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4%EA%B0%80-%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%82%B4-%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%9C)
