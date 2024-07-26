@@ -1,6 +1,15 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 써보자.
 
+
+### 우리는 왜 거절하기 힘들까??
+- 안녕하세요, 유튜브를 보다가 "거절이 나쁘다는 인식을 버리세요." 라는 영상을 보게 되었습니다. 이 주제가 매우 흥미로워 이렇게 글을 쓰게 되었는데요, 여러분은 어떻게 생각하시나요?
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%99%9C-%EA%B1%B0%EC%A0%88%ED%95%98%EA%B8%B0-%ED%9E%98%EB%93%A4%EA%B9%8C)
+  
+### 내가 러닝을 하는 이유.. 내 일을 더 잘하기 위해서!
+- 러닝과 작은 성공에 대한 본인 생각 정리
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4%EA%B0%80-%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%82%B4-%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%9C)
+  
 ### 왜 실천이 어려울까?? 작게.. 작게..
 - 실천이 어려운 이유는 목표를 너무 크게 설정하거나, 시간을 내기 어렵거나, 동기 부여가 부족하거나, 명확한 계획이 없기 때문입니다..
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%99%9C-%EC%8B%A4%EC%B2%9C%EC%9D%B4-%EC%96%B4%EB%A0%A4%EC%9A%B8%EA%B9%8C-%EC%9E%91%EA%B2%8C-%EC%9E%91%EA%B2%8C)
@@ -13,6 +22,3 @@
 - 무신사, 지그재그, 에이블리, 등등 이커머스의 web ui 변환, 모바일 중심으로의 전환에 대한 본인 생각 정리
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%9D%98-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%ED%8E%B8-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C%EC%9D%98-%EC%A0%84%ED%99%98)
 
-### 내가 러닝을 하는 이유.. 내 일을 더 잘하기 위해서!
-- 러닝과 작은 성공에 대한 본인 생각 정리
-- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4%EA%B0%80-%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%82%B4-%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4%EC%84%9C)
