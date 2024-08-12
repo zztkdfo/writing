@@ -3,11 +3,11 @@
 
 ### 브랜딩: 한 사람에게 감동을 주어라
 - 브랜딩의 시작점은 어디일까요? 수많은 이론과 전략이 존재하지만, 제가 생각하는 진정한 브랜딩의 시작은 바로 한 사람에게 감동을 주는 것입니다. 
-- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%99%9C-%EA%B1%B0%EC%A0%88%ED%95%98%EA%B8%B0-%ED%9E%98%EB%93%A4%EA%B9%8C)
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C-%EA%B0%90%EB%8F%99%EC%9D%84-%EC%A3%BC%EC%96%B4%EB%9D%BC)
 
 ### 일을 할 때, 어떤 Why와 How가 있으신가요??
 - 어떤 이유로 일을 시작하고, 어떤 방법으로 목표를 달성하고 계신가요? "왜(Why)"와 "어떻게(How)"를 명확히 하는 것은 성공적인 결과를 이끌어내기 위한 중요한 요소입니다.
-- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%99%9C-%EA%B1%B0%EC%A0%88%ED%95%98%EA%B8%B0-%ED%9E%98%EB%93%A4%EA%B9%8C)
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%9D%BC%EC%9D%84-%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%A4-why%EC%99%80-how%EA%B0%80-%EC%9E%88%EC%9C%BC%EC%8B%A0%EA%B0%80%EC%9A%94)
   
 ### 우리는 왜 거절하기 힘들까??
 - 안녕하세요, 유튜브를 보다가 "거절이 나쁘다는 인식을 버리세요." 라는 영상을 보게 되었습니다. 이 주제가 매우 흥미로워 이렇게 글을 쓰게 되었는데요, 여러분은 어떻게 생각하시나요?
