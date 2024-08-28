@@ -1,10 +1,14 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 내가 늦었나? 🤔: 타이밍에 대한 생각들
+- 가끔씩 우리는 ‘내가 늦었나?’라는 생각에 사로잡힐 때가 있습니다. 어떤 사람은 벌써 창업을 해서 성공 가도를 달리고 있고...
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%B4%EA%B0%80-%EB%8A%A6%EC%97%88%EB%82%98-%ED%83%80%EC%9D%B4%EB%B0%8D%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81%EB%93%A4)
+  
 ### '낫투두(Not To Do) 리스트': 인생을 변화시키는 새로운 시각
 - 할 일 목록, 이른바 '두투(To Do) 리스트'는 아마 대부분의 사람들이 익숙한 개념일 겁니다. 
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%AB%ED%88%AC%EB%91%90-not-to-do-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%9D%B8%EC%83%9D%EC%9D%84-%EB%B3%80%ED%99%94%EC%8B%9C%ED%82%A4%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EA%B0%81)
-- 
+  
 ### 수요자에서 공급자로의 변환: 글을 쓰면서 변화한 생각과 마인드
 - 브랜딩의오랫동안 저는 유튜브, 디스콰이엇 등 다양한 플랫폼에서 콘텐츠를 소비하는 수요자였습니다. 흥미로운 글을 읽고..
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%88%98%EC%9A%94%EC%9E%90%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B8%89%EC%9E%90%EB%A1%9C%EC%9D%98-%EB%B3%80%ED%99%98-%EA%B8%80%EC%9D%84-%EC%93%B0%EB%A9%B4%EC%84%9C-%EB%B3%80%ED%99%94%ED%95%9C-%EC%83%9D%EA%B0%81%EA%B3%BC-%EB%A7%88%EC%9D%B8%EB%93%9C)
