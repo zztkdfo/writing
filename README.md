@@ -1,8 +1,11 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 스타트업 창업가에서 프리랜서로의 삶: 나의 생각과 행동이 멀지 않기를
+- 스타트업을 잘 마무리하고 프리랜서 개발자 생활을 시작한 지 어느덧 2주가 흘렀습니다.
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%EA%B0%80%EC%97%90%EC%84%9C-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C%EB%A1%9C%EC%9D%98-%EC%82%B6)
+  
 ### Remind: 빠르게 실패하기
-
 - 우리는 누구나 한 번쯤 "내가 20대로 다시 돌아간다면 무엇을 할까?"라는 질문을 던져본 적이 있을 겁니다.
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/remind-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B8%B0)
   
