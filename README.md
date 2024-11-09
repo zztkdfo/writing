@@ -1,6 +1,10 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### AI 시대, 개발자는 대체될까? 아니, 진화할까?
+- 개발자로서 요즘 들어 가장 많이 듣는 질문 중 하나가 바로 "AI 시대에 개발자는 대체 될까?" 입니다. 
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
+  
 ### 프리랜서 개발자로 선택한 이유: 안정적인 수입과 자유로운 시간의 균형 💼⏰
 - 프리랜서 개발자로 일 한다는 건 꽤나 큰 결단입니다. 많은 사람들이 ‘프리랜서’ 하면 불안정한 수입, 끝없는 경쟁, 자기 자신을 마케팅해야 하는 부담 등을 떠올리죠.
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%88%98%EC%9E%85%EA%B3%BC-%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EA%B0%84%EC%9D%98-%EA%B7%A0%ED%98%95)
