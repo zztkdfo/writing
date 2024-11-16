@@ -1,6 +1,10 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 스타트업 대표에서 프리랜서 개발자로 전향: 회고
+- 저는 약 3년간 스타트업을 공동 창업하며 달려왔고, 올해 7월 31일부로 그 여정을 마무리했습니다.
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
+
 ### AI 시대, 개발자는 대체될까? 아니, 진화할까?
 - 개발자로서 요즘 들어 가장 많이 듣는 질문 중 하나가 바로 "AI 시대에 개발자는 대체 될까?" 입니다. 
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
