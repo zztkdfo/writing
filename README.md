@@ -1,6 +1,10 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 나만의 길을 만들어가는 첫 걸음, 꾸준히 그리고 나답게
+- 스타트업을 접고 나서 어느덧 두 달. 프리랜서로서의 생활에 이제야 조금 익숙해지고 있어요.
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%82%98%EB%A7%8C%EC%9D%98-%EA%B8%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EC%B2%AB-%EA%B1%B8%EC%9D%8C-%EA%BE%B8%EC%A4%80%ED%9E%88-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%98%EB%8B%B5%EA%B2%8C)
+  
 ### 스타트업 대표에서 프리랜서 개발자로 전향: 회고
 - 저는 약 3년간 스타트업을 공동 창업하며 달려왔고, 올해 7월 31일부로 그 여정을 마무리했습니다.
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/ai-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EB%8C%80%EC%B2%B4%EB%90%A0%EA%B9%8C-%EC%95%84%EB%8B%88-%EC%A7%84%ED%99%94%ED%95%A0%EA%B9%8C)
