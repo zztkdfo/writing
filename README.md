@@ -1,6 +1,10 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 루틴의 힘: 매일의 과정이 나를 만든다 🕰️💪
+- "하루는 24시간밖에 없다."
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%9E%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EA%B3%BC%EC%A0%95%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4)
+  
 ### 같은 그림, 다른 해석: 당신은 무엇을 보셨나요?
 - 얼마 전, 저는 꽤 흥미로운 그림 하나를 보았습니다. 그림에는 두 가지 일과가 나란히 비교되어 있었습니다.
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EA%B0%99%EC%9D%80-%EA%B7%B8%EB%A6%BC-%EB%8B%A4%EB%A5%B8-%ED%95%B4%EC%84%9D-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%84-%EB%B3%B4%EC%85%A8%EB%82%98%EC%9A%94)
