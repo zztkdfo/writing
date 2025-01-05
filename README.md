@@ -1,6 +1,10 @@
 # writing
 나의 생각, 철학, 인사이트를 글로 작성한 것들 정리
 
+### 프리랜서 계약 연장 이슈: 감정이 아닌 전략으로 풀어내는 법👍
+- 프리랜서로 일하다 보면 계약 연장 이야기가 나올 때가 가장 민감하고 중요한 순간이죠.
+- [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B3%84%EC%95%BD-%EC%97%B0%EC%9E%A5-%EC%9D%B4%EC%8A%88-%EA%B0%90%EC%A0%95%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%A0%84%EB%9E%B5%EC%9C%BC%EB%A1%9C-%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94-%EB%B2%95)
+- 
 ### 루틴의 힘: 매일의 과정이 나를 만든다 🕰️💪
 - "하루는 24시간밖에 없다."
 - [전체 글 보기](https://disquiet.io/@zztkdfo/makerlog/%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%9E%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EA%B3%BC%EC%A0%95%EC%9D%B4-%EB%82%98%EB%A5%BC-%EB%A7%8C%EB%93%A0%EB%8B%A4)
